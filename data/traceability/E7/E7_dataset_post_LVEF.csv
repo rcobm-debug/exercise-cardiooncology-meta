@@ -1,0 +1,4 @@
+record_id,study_id,timepoint,n_ex,mean_ex,sd_ex,n_co,mean_co,sd_co,effect,se,ci_low,ci_high,source_ex,source_co,note
+R00006,Antunes_2023_EurJPC_SETp,End of AC,47,59.2,3.1,45,59.6,3.3,-0.3999999999999986,0.6681826734556823,-1.709638039973136,0.9096380399731387,"Tabla 2, pág PDF 7","Tabla 2, pág PDF 7",MD = media_ex - media_control (post).
+R01125,Abdelhady_2025_CORE,6 months,50,64.1,3.52,50,59.46,5.57,4.639999999999993,0.9318293835246879,2.813614408291605,6.466385591708382,Tabla 4 (pág PDF 7),Tabla 4 (pág PDF 7),MD = media_ex - media_control (post).
+R00113,Chung_2022_RealTimeExercise_RCT,3 months,16,72.2,3.7,13,64.2,4.8,8.0,1.621089970454352,4.822663657909469,11.17733634209053,Tabla 2 (pág PDF 6),Tabla 2 (pág PDF 6),MD = media_ex - media_control (post).

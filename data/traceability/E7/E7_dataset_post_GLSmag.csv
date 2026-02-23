@@ -1,0 +1,4 @@
+record_id,study_id,timepoint,n_ex,mean_ex_raw,mean_co_raw,mean_ex_mag,mean_co_mag,sd_ex,sd_co,n_co,effect,se,ci_low,ci_high,source_ex,source_co,note
+R00006,Antunes_2023_EurJPC_SETp,End of AC,38,-20.1,-20.1,20.1,20.1,1.8,2.1,39,0.0,0.4453538828523447,-0.8728936103905955,0.8728936103905955,"Tabla 2, pág PDF 7","Tabla 2, pág PDF 7",MD sobre magnitud de GLS (mayor=mejor).
+R01125,Abdelhady_2025_CORE,6 months,50,-18.91,-17.89,18.91,17.89,1.39,1.54,50,1.02,0.2933837077957807,0.4449679327202695,1.59503206727973,Tabla 4 (pág PDF 7),Tabla 4 (pág PDF 7),MD sobre magnitud de GLS (mayor=mejor).
+R00027,Kirkham_2018_BCRTT_acute_prechemo,End of treatment,13,-18.7,-20.3,18.7,20.3,1.4,1.6,10,-1.600000000000001,0.637784627260042,-2.850057869429684,-0.349942130570319,Tabla 3 p.725 (imagen),Tabla 3 p.725 + texto p.723 (imágenes),MD sobre magnitud de GLS (mayor=mejor).

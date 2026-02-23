@@ -1,0 +1,10 @@
+record_id,study_id,evidence_source,LVEF_change_target_available,GLS_change_target_available,LVEF_post_available,GLS_post_available,notes
+R00002,Foulkes_2023_BREXIT,"PDF R00002: Métodos p.534 (página PDF 3) + Tablas 1–3 (págs PDF 6,8,10).",True,True,False,False,Foulkes 2023 reporta cambios (Δ) y diferencias netas; no aparecen medias post para LVEF/GLS en Tabla 3.
+R00006,Antunes_2023_EurJPC_SETp,PDF R00006: Metadatos PDF (Subject) + Tabla 2 (página PDF 7).,True,True,True,True,
+R00012,Kirkham_2018_BCRTT_acute_prechemo,PDF R00012 (Int J Cardiol 2017): Métodos p.2 (pág PDF 2); Tabla 1 p.266 (pág PDF 4); Tabla 2 p.268 (pág PDF 6); Resultados p.265–266 (págs PDF 3–4) para tiempos de seguimiento y cut-point NT-proBNP.,False,False,False,True,
+R00024,Jacquinot_2022_CARDAPAC_trastuzumab,"PDF R00024: definición cardiotoxicidad y criterios (sección Methods/Primary endpoint, texto); Tabla 4 (pág impresa 09, imagen R00024_p9.png) con LVEF/GLS; texto Cardiotoxicity con recuentos (pág con sección 'Cardiotoxicity').",False,False,False,False,
+R00027,Kirkham_2018_BCRTT_acute_prechemo,Imágenes: Tabla 1 p.723 (kirkham_table1_p5.png) y Tabla 3 p.725 (kirkham_table3_p7.png).,False,False,False,True,En R00027 (Kirkham 2018) Tabla 3 (p.725) reporta medias±SD pero no n; n se obtiene de Tabla 1 (p.723) según tu trazabilidad.
+R00032,Hojan_2020_REH_HER,"PDF R00032 (J Clin Med 2020): abstract + tablas (ver Tabla(s) en páginas PDF [8, 9]). DOI: 10.3390/jcm9051379.",False,False,False,False,
+R00113,Chung_2022_RealTimeExercise_RCT,PDF R00113: sección 2.1–2.2 (pág PDF 2); Tabla 1 (pág PDF 5); Tabla 2 (pág PDF 6); Tabla 3 (pág PDF 7).,False,False,True,False,
+R01125,Abdelhady_2025_CORE,"PDF R01111 (J Saudi Heart Assoc 2025): Methods (pág PDF 2); descripción del programa (pág PDF 4); Tablas 2 (baseline, pág PDF 5), 3 (3 meses, pág PDF 6) y 4 (6 meses, pág PDF 7).",False,False,True,True,
+R01154,Jacquinot_2022_CARDAPAC_trastuzumab,PDF R01154 (Breast Cancer Res Treat 2026): cabecera/abstract p.1 (DOI y n) + Resultados (NRG1) p.1.,False,False,False,False,

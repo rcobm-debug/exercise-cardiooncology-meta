@@ -1,0 +1,151 @@
+record_id,study_id,ft_reason_code,ft_reason_detail,evidence_source
+R00001,ONCORE_protocol,FT8/FT1,Protocolo sin resultados (study protocol).,R00001.pdf
+R00004,SystematicReview_2024,FT1,No es ECA/RCT: revisión sistemática y metaanálisis.,R00004.pdf
+R00007,Ma_2018_PakJPharmSci,FT6,"Ensayo con reporte de resultados inconsistente/incompleto: tablas requieren n por estrato de edad para combinar, pero no se reporta; además hay discrepancias de n (35/33/31) y las tablas no permiten extraer un contraste único trazable.",R00007.pdf
+R00008,Kirkham_2023_TITAN,FT3,Intervención multicomponente (cardiac rehabilitation-based) con componentes de dieta/nutrición además de ejercicio; no es ejercicio aislado.,R00008.pdf
+R00009,Naaktgeboren_2023_PACTPACES_FU,FT1,"Seguimiento a largo plazo (~8,5 años) de ECA previos (PACT/PACES) con participación parcial; este informe no corresponde a un ECA evaluable en la ventana/estimando predefinidos.",R00009.pdf
+R00010,ONCORE_protocol_2021,FT8/FT1,Protocolo sin resultados (study protocol).,R00010.pdf
+R00011,ExerciseTrainingProtocol,FT8/FT1,Protocolo de estudio (protocol) sin resultados.,R00011.pdf
+R00013,Protocol,FT8/FT1,Protocolo (sin resultados).,R00013.pdf
+R00014,CARDAPAC_protocol,FT8/FT1,Protocolo del estudio CARDAPAC (sin resultados); existe artículo de resultados separado (R00024).,R00014.pdf
+R00015,Foulkes_2019_nonrandomized,FT1,Estudio no aleatorizado (nonrandomized trial) de ejercicio vs usual care.,R00015.pdf
+R00017,Kirkham_2020_BCRTT_training_hemodynamics,FT1,No es ECA/RCT: ensayo controlado no aleatorizado (non-randomized controlled trial).,R00017.pdf
+R00023,WalkingMeditation_RCT,FT3/FT6,Intervención no es ejercicio aislado (combina componente físico y mental; el propio texto indica que no se pueden separar) y no reporta FEVI/GLS/troponina/BNP.,R00023.pdf
+R00025,Schneider_2023_CardioOncRehab,FT2/FT3,"Población mixta (≈9% linfoma) y la intervención es rehabilitación multicomponente (incluye counselling, nutrición, psicología, etc.), no ejercicio aislado.",R00025.pdf
+R00026,PhysicalActivityPilot,FT6,ECA piloto centrado en capacidad de ejercicio/actividad física durante quimioterapia; no reporta FEVI/GLS/biomarcadores.,R00026.pdf
+R00028,Protocol_or_Methodology,FT8/FT1,Protocolo (sin resultados).,R00028.pdf
+R00034,DUDA_R00034,FT1,Revisión,R00034.pdf
+R00035,Protocol,FT8/FT1,Protocolo (sin resultados).,R00035.pdf
+R00036,QoL_CV_Risk_Reduction,FT1/FT3,Programa integral de reducción de riesgo CV (multicomponente) y/o diseño no ECA; no cumple 'ejercicio aislado'.,R00036.pdf
+R00040,Methodology_Paper,FT1,Artículo metodológico (no ECA/RCT) sin intervención de ejercicio ni outcomes clínicos primarios de cardiotoxicidad.,R00040.pdf
+R00041,RiskGuided_DM_2026,FT3,Intervención no es ejercicio estructurado (manejo/enfermería/estrategia de monitorización/medicación).,R00041.pdf
+R00048,DUDA_R00048,FT1,No ECA/RCT (no se identifica aleatorización),R00048.pdf
+R00049,FT_R00049,FT8,No se dispone de artículo a texto completo (solo archivo .xls de exportación/bibliografía).,R00049.xls
+R00050,EXACT_feasibility,FT6,Estudio de factibilidad; no reporta FEVI/GLS/troponina/BNP/NT-proBNP extraíbles (menciona biomarcadores como sugerencia futura).,R00050.pdf
+R00060,DUDA_R00060,FT8/FT1,Protocolo sin resultados,R00060 Corrección.pdf;R00060.pdf
+R00067,DUDA_R00067,FT8/FT1,Protocolo sin resultados,R00067.pdf
+R00073,DUDA_R00073,FT1,No es ECA/RCT (diseño observacional/no experimental),R00073.pdf
+R00075,DUDA_R00075,FT6,No reporta outcomes críticos de cardiotoxicidad (FEVI/GLS/biomarcadores),R00075.pdf
+R00079,Protocol,FT8/FT1,Protocolo (sin resultados).,R00079.pdf
+R00083,DUDA_R00083,FT1,No es ECA/RCT de intervención de ejercicio: análisis de cambios ECG en cohorte de ensayo (retrospectivo).,R00083.pdf
+R00084,DUDA_R00084,FT1,Revisión,R00084.pdf
+R00085,DUDA_R00085,FT1,Revisión,R00085.pdf
+R00097,DUDA_R00097,FT1,Revisión,R00097.pdf
+R00098,DUDA_R00098,FT1,No ECA/RCT (no se identifica aleatorización),R00098.pdf
+R00117,DUDA_R00117,FT1,Revisión,R00117.pdf
+R00124,DUDA_R00124,FT8/FT1,Protocolo sin resultados,R00124.pdf
+R00128,DUDA_R00128,FT1,Revisión,R00128.pdf
+R00133,Haykowsky_Trastuzumab_Remodeling,FT1,Serie pre-post sin grupo control (no ECA/RCT) durante trastuzumab.,R00133.pdf
+R00167,DUDA_R00167,FT8,Registro de ensayo (sin resultados publicados),R00167.pdf
+R00172,Review_MetaAnalysis_Antunes,FT1,Revisión sistemática y metaanálisis.,R00172.pdf
+R00179,OptiTrain_2021_biomarker_paper,FT6,Artículo de análisis per-protocol del OptiTrain con resultados principales en material suplementario (figuras) no disponible en el PDF; no proporciona números extraíbles para FEVI/GLS/biomarcadores (solo descripción y un OR para criterio de riesgo biomarcador).,R00179.pdf
+R00191,Review_AnthracyclineCardiotox,FT1,Revisión (systematic review).,R00191.pdf
+R00227,DUDA_R00227,FT5,No se identifica antraciclina/anti-HER2 en el texto inicial,R00227.pdf
+R00228,DUDA_R00228,FT3,No hay intervención de ejercicio estructurado,R00228.pdf
+R00236,BMJOpen_quasi_randomised_protocol,FT8/FT1,Protocolo de ensayo cuasi-aleatorizado (sin resultados).,R00236.pdf
+R00238,DUDA_R00238,FT8,Registro de ensayo (sin resultados publicados),R00238.pdf
+R00275,DUDA_R00275,FT1,No ECA/RCT (no se identifica aleatorización),R00275.pdf
+R00320,DUDA_R00320,FT8/FT1,Protocolo sin resultados,R00320.pdf
+R00324,DUDA_R00324,FT1,No ECA/RCT (no se identifica aleatorización),R00324.pdf
+R00338,DUDA_R00338,FT1,No es ECA/RCT (diseño observacional/no experimental),R00338.pdf
+R00344,APA_RCT_no_cardiotox_endpoints,FT6,ECA de actividad física adaptada centrado en VO2peak/PROs sin FEVI/GLS/biomarcadores reportados.,R00344.pdf
+R00371,Duplicate_R00007,FT7,Duplicado de R00007 (mismo título/autor/revista).,R00371.pdf
+R00430,DUDA_R00430,FT8,Registro de ensayo (sin resultados publicados),R00430.pdf
+R00447,DUDA_R00447,FT1,No ECA/RCT (no se identifica aleatorización),R00447.pdf
+R00840,Prehabilitation_Review,FT1,Revisión (review) no ECA.,R00840.pdf
+R00846,Review_IntegrativeCancerTherapies_2024,FT1,Revisión (review).,R00846.pdf
+R00849,DUDA_R00849,FT8/FT1,Protocolo sin resultados,R00849.pdf
+R00852,CrossSectional_30STS,FT1,Estudio transversal (no ECA).,R00852.pdf
+R00855,DUDA_R00855,FT1,No ECA/RCT (no se identifica aleatorización),R00855.pdf
+R00856,DUDA_R00856,FT3,No hay intervención de ejercicio estructurado,R00856.pdf
+R00858,HIIT_metabolic_syndrome,FT6,Ensayo sobre síndrome metabólico; sin FEVI/GLS/biomarcadores cardiotóxicos reportados.,R00858.pdf
+R00868,DUDA_R00868,FT2/FT1,No es población cáncer de mama (o no identificable),R00868.pdf
+R00889,DUDA_R00889,FT1,Revisión,R00889.pdf
+R00897,Cachexia_Abstract,FT2/FT1,No es población objetivo (cáncer cachexia; no específico mama) y es abstract.,R00897.pdf
+R00898,DUDA_R00898,FT6,No reporta outcomes críticos de cardiotoxicidad (FEVI/GLS/biomarcadores),R00898.pdf
+R00923,DUDA_R00923,FT3,No hay intervención de ejercicio estructurado,R00923.pdf
+R00924,Fatigue_exercise_2008,FT6,Ensayo de ejercicio centrado en fatiga/PROs sin FEVI/GLS/biomarcadores.,R00924.pdf
+R00946,DUDA_R00946,FT5,No se identifica antraciclina/anti-HER2 en el texto inicial,R00946.docx
+R00956,DUDA_R00956,FT1,Revisión,R00956.pdf
+R00957,DUDA_R00957,FT1,No ECA/RCT (no se identifica aleatorización),R00957.pdf
+R00959,DUDA_R00959,FT8/FT1,Protocolo sin resultados,R00959.pdf
+R00963,DUDA_R00963,FT1,Revisión,R00963.pdf
+R00964,DUDA_R00964,FT8/FT1,Protocolo sin resultados,R00964.pdf
+R00965,DUDA_R00965,FT5,No se identifica antraciclina/anti-HER2 en el texto inicial,R00965.pdf
+R00971,DUDA_R00971,FT2/FT1,No es población cáncer de mama (o no identificable),R00971 Son Abstracts.pdf
+R00974,DUDA_R00974,FT1,No ECA/RCT (no se identifica aleatorización),R00974.pdf
+R00987,DUDA_R00987,FT1,No ECA/RCT (no se identifica aleatorización),R00987.pdf
+R00988,HomeExercise_feasibility,FT6,Factibilidad de intervención domiciliaria; sin FEVI/GLS/biomarcadores reportados.,R00988.pdf
+R01009,DUDA_R01009,FT5,No se identifica antraciclina/anti-HER2 en el texto inicial,R01009.pdf
+R01022,Wearable_Aerobic_RCT,FT6,ECA de ejercicio focalizado en salud física/mental (VO2/ansiedad/etc.) sin FEVI/GLS/biomarcadores reportados en el artículo.,R01022.pdf
+R01029,DUDA_R01029,FT1,No ECA/RCT (no se identifica aleatorización),R01029.pdf
+R01077,DUDA_R01077,FT1,No ECA/RCT (no se identifica aleatorización),R01077.pdf
+R01083,DUDA_R01083,FT8,Registro de ensayo (sin resultados publicados),R01083.docx
+R01088,FT_R01088,FT8,Registro/abstract (sin artículo completo con resultados),R01088.docx
+R01090,FT_R01090,FT8,Registro/abstract (sin artículo completo con resultados),R01090.docx
+R01091,DUDA_R01091,FT8,Registro de ensayo (sin resultados publicados),R01091.docx
+R01092,FT_R01092,FT8,Registro de ensayo (ClinicalTrials.gov) sin resultados publicados.,R01092.csv
+R01093,ChemoDrugRCT,FT3,"ECA de comparación de antraciclinas (epirubicina vs doxorubicina), no intervención de ejercicio.",R01093.pdf
+R01096,TrialRegistry,FT8,"Registro de ensayo (ClinicalTrials.gov), sin resultados publicados.",R01096.pdf
+R01099,DUDA_R01099,FT8,Registro de ensayo (sin resultados publicados),R01099.docx
+R01100,DUDA_R01100,FT8/FT1,Protocolo sin resultados,R01100.docx
+R01101,Foulkes_2019_nonrandomized_followup,FT1,No aleatorizado (nonrandomized trial) de ejercicio durante AC; excluido por criterio diseño.,R01101.pdf
+R01103,DUDA_R01103,FT1,No ECA/RCT (no se identifica aleatorización),R01103.csv;R01103.docx
+R01106,FT_R01106,FT8,Registro de ensayo (ClinicalTrials.gov) sin resultados publicados.,R01106.csv
+R01107,DUDA_R01107,FT8/FT1,Protocolo sin resultados,R01107.docx
+R01108,Howden_2019_EurJPC_exercise_tool,FT1,No es ECA/RCT: ensayo controlado no aleatorizado (non-randomized controlled trial).,R01108.pdf
+R01111,Almousa_2025_JSaudiHeartAssoc_CR,FT7,Duplicado/registro redundante del mismo artículo que R01125 (mismo DOI 10.37616/2212-5043.1433; contenido equivalente).,R01111.pdf;R01125.pdf
+R01112,DUDA_R01112,FT1,No ECA/RCT (no se identifica aleatorización),R01112.docx
+R01113,DUDA_R01113,FT8/FT6,"Registro/abstract en CENTRAL (no artículo completo con resultados clínicos primarios); outcome principal FMD, no FEVI/GLS/biomarcadores.",R01113.docx
+R01114,FT_R01114,FT8,Registro/abstract (sin artículo completo con resultados),R01114.docx
+R01115,FT_R01115,FT8,Registro/abstract (sin artículo completo con resultados),R01115.docx
+R01116,FT_R01116,FT8,Registro/abstract (sin artículo completo con resultados),R01116.docx
+R01119,DUDA_R01119,FT2/FT1,No es población cáncer de mama (o no identificable),R01119.docx
+R01120,FT_R01120,FT8,Registro/abstract (sin artículo completo con resultados),R01120.docx
+R01121,FT_R01121,FT8,Registro/abstract (sin artículo completo con resultados),R01121.docx
+R01122,Abstract_ProspectiveStudy,FT8,Resumen/congreso de 1 página (no artículo completo).,R01122.pdf
+R01123,FT_R01123,FT8,Registro/abstract (sin artículo completo con resultados),R01123.docx
+R01124,FT_R01124,FT8,Registro/abstract (sin artículo completo con resultados),R01124.docx
+R01126,FT_R01126,FT8,Registro/abstract (sin artículo completo con resultados),R01126.docx
+R01127,FT_R01127,FT8,No se dispone de artículo a texto completo (solo archivo .xls de exportación/bibliografía).,R01127.xls
+R01128,CAUSE_observational,FT1,Estudio observacional comparativo en supervivientes vs controles; no es ECA.,R01128.pdf
+R01129,FT_R01129,FT8,Registro/abstract (sin artículo completo con resultados),R01129.docx
+R01130,FT_R01130,FT8,Registro/abstract (sin artículo completo con resultados),R01130.docx
+R01133,FT_R01133,FT8,Registro/abstract (sin artículo completo con resultados),R01133.docx
+R01134,FT_R01134,FT8,Registro/abstract (sin artículo completo con resultados),R01134.docx
+R01135,Abstract_EconomicModel,FT8/FT1,No es ensayo clínico; texto corresponde a modelización/economía (no ejercicio).,R01135.pdf
+R01137,Poster_PlannedProtocol,FT8/FT1,Resumen/poster con protocolo planificado; sin resultados.,R01137.pdf
+R01138,CaseReport_SinusValsalva,FT2/FT1,No es cáncer de mama ni ensayo de ejercicio; parece caso clínico cardiovascular (sin relación con PICO).,R01138.pdf
+R01140,Conference_abstract,FT8/FT1,Resumen/congreso de 1 página; no es artículo completo con resultados.,R01140.pdf
+R01142,Methodology_Paper,FT1,Artículo metodológico (no ECA/RCT) sin intervención de ejercicio ni outcomes clínicos primarios de cardiotoxicidad.,R01142.pdf
+R01143,DUDA_R01143,FT1,No ECA/RCT (no se identifica aleatorización),R01143.docx
+R01144,FT_R01144,FT8,Registro/abstract (sin artículo completo con resultados),R01144.docx
+R01147,FT_R01147,FT8,Registro/abstract (sin artículo completo con resultados),R01147.docx
+R01148,Abstract_COREtrial,FT8,Resumen/congreso (2 páginas) sin tablas de outcomes completos.,R01148.pdf
+R01149,FT_R01149,FT8,Registro/abstract (sin artículo completo con resultados),R01149.docx
+R01150,Talera_2023_StrainImaging,FT3/FT1,No evalúa intervención de ejercicio: comparación de vigilancia guiada por GLS vs guiada por FEVI (no ejercicio).,R01150.pdf
+R01151,FT_R01151,FT8,Registro de ensayo (ClinicalTrials.gov) sin resultados publicados.,R01151.csv
+R01155,DUDA_R01155,FT8,Registro (trial registry record); ICTRP ChiCTR2500114707,R01155.csv
+R01156,DUDA_R01156,FT8,Resumen/abstract (sin artículo completo con resultados).,R01156.pdf
+R01160,DUDA_R01160,FT3,No intervención de ejercicio (estudio de ML/MRI diagnóstico).,R01160.pdf
+R01165,DUDA_R01165,FT8,Registro ClinicalTrials.gov (NCT02615054) sin resultados publicados (estado: COMPLETED).,R01165.csv
+R01166,DUDA_R01166,FT8,Registro ClinicalTrials.gov (NCT02433067) sin resultados publicados (estado: TERMINATED).,R01166.csv
+R01186,DUDA_R01186,FT8,Registro ClinicalTrials.gov (NCT06518200) sin resultados publicados (estado: NOT_YET_RECRUITING).,R01186.csv
+R01188,DUDA_R01188,FT8,Registro ClinicalTrials.gov (NCT03510689) sin resultados publicados (estado: COMPLETED).,R01188.csv
+R01190,DUDA_R01190,FT8,Registro ClinicalTrials.gov (NCT05522959) sin resultados publicados (estado: RECRUITING).,R01190.csv
+R01195,DUDA_R01195,FT8,Registro ClinicalTrials.gov (NCT05040867) sin resultados publicados (estado: UNKNOWN).,R01195.csv
+R01198,DUDA_R01198,FT8,Registro ClinicalTrials.gov (NCT01719562) con resultados en el registro; sin artículo completo evaluable/extraíble.,R01198.csv
+R01203,DUDA_R01203,FT8,Registro ClinicalTrials.gov (NCT05786014) sin resultados publicados (estado: COMPLETED).,R01203.csv
+R01214,DUDA_R01214,FT8,Registro ClinicalTrials.gov (NCT02796365) sin resultados publicados (estado: COMPLETED).,R01214.csv
+R01216,DUDA_R01216,FT8,Registro ClinicalTrials.gov (NCT05036252) sin resultados publicados (estado: ACTIVE_NOT_RECRUITING).,R01216.csv
+R01217,DUDA_R01217,FT8,Registro ClinicalTrials.gov (NCT02006979) con resultados en el registro; sin artículo completo evaluable/extraíble.,R01217.csv
+R01220,DUDA_R01220,FT8,Registro ClinicalTrials.gov (NCT06595147) sin resultados publicados (estado: RECRUITING).,R01220.csv
+R01222,DUDA_R01222,FT8,Registro ClinicalTrials.gov (NCT06023576) sin resultados publicados (estado: RECRUITING).,R01222.csv
+R01242,DUDA_R01242,FT8,Registro ClinicalTrials.gov (NCT07070778) sin resultados publicados (estado: RECRUITING).,R01242.csv
+R01243,DUDA_R01243,FT8,Registro ClinicalTrials.gov (NCT02702830) sin resultados publicados (estado: COMPLETED).,R01243.csv
+R01253,DUDA_R01253,FT8,Registro ClinicalTrials.gov (NCT07405385) sin resultados publicados (estado: NOT_YET_RECRUITING).,R01253.csv
+R01263,DUDA_R01263,FT1,No ECA/RCT (estudio observacional sobre VO2/capacidad cardiorrespiratoria post-quimioterapia).,R01263.pdf
+R01266,DUDA_R01266,FT8,Registro ReBEC (documento de registro); sin publicación de artículo completo con resultados.,R01266.docx
+R01267,DUDA_R01267,FT8,Registro (documento de registro); sin publicación de artículo completo con resultados.,R01267.docx
+R01275,DUDA_R01275,FT8,Registro ANZCTR (documento de registro); sin publicación de artículo completo con resultados.,R01275.docx
+R01278,DUDA_R01278,FT8/FT1,Registro (ToetsingOnline/ICTRP) de estudio observacional; sin artículo completo con resultados.,R01278.pdf

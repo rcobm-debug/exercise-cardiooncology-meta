@@ -1,0 +1,4 @@
+old_master_record_id,new_master_record_id,old_dedup_key,new_dedup_key,pmid,old_record_ids,new_record_ids_before,new_record_ids_after,new_sources_before,new_sources_after
+R00033,R00146,10561296,10.1200/jco.1999.17.8.2341,10561296,['R00033'],"['R00146', 'R00799']","['R00146', 'R00799', 'R00033']","['Scopus', 'Web of Science']","['Scopus', 'Web of Science', 'PubMed']"
+R00021,R01093,3859587,10.1200/jco.1985.3.6.818,3859587,['R00021'],"['R00160', 'R00838', 'R01093']","['R00160', 'R00838', 'R01093', 'R00021']","['CENTRAL (trials export)', 'Scopus', 'Web of Science']","['CENTRAL (trials export)', 'Scopus', 'Web of Science', 'PubMed']"
+R00020,R00204,3516918,10.1007/bf00172021,3516918,['R00020'],"['R00204', 'R00834']","['R00204', 'R00834', 'R00020']","['Scopus', 'Web of Science']","['Scopus', 'Web of Science', 'PubMed']"
