@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v1.0.1 — Supplementary & traceability update
+## v1.0.2 — Supplementary & traceability update
 ### Fixed
 - S1/S2: corrected reference brackets to match manuscript bibliography (Jacquinot now [32–33]; subsequent refs shifted so range reaches [36]).
 - S4: corrected Jacquinot/CARDAPAC mapping by including both included reports (2022 + 2026) and internal source IDs.
