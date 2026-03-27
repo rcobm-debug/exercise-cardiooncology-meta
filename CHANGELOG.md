@@ -1,5 +1,5 @@
 # CHANGELOG
-v1.0.5 — Figure traceability and journal-submission update
+## V1.0.5 — Figure traceability and journal-submission update
 ### Added
 - Release asset: Figuras_4_7_SCiC_trazables_v6_con_Fig4_5_ab.zip
 - Composite vertical figure assembled from previously validated Figure 4 and Figure 5 outputs (panel a = Figure 4; panel b = Figure 5).
