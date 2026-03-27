@@ -3,7 +3,7 @@
 Este repositorio contiene el **código** y los **datos derivados** necesarios para reproducir los metaanálisis y las figuras cuantitativas (forest plots) reportadas en el manuscrito.
 
 Versión pública actual: v1.0.5
-Zenodo (versión archivada): [PENDING_NEW_ZENODO_VERSION_DOI]
+Zenodo (versión archivada): DOI: 10.5281/zenodo.19253672
 
 Novedades en v1.0.5
 - Actualización del paquete de trazabilidad de figuras para el envío a revista.
